@@ -1,3 +1,5 @@
+<image src = 'images/20220415_155747.jpg' width = 400  height= 400> </image>
+
 # MyProject_1![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=FirstRepo%20&fontSize=90)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디 &layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
